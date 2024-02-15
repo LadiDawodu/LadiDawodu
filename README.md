@@ -11,7 +11,7 @@ Junior Data Analyst
 *   🧠  I'm learning Advanced Excel😎, NumPy, R, Touchdesigner
 *   🤝  I'm open to collaborating on Humanitary data projects OR links between spiritual awareness and Global economics
 *   ⚡  Im batman.... Shhh
-*
+
 
 ### Skills 
 <p align="left">
