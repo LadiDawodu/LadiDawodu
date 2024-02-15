@@ -4,18 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Data Analyst
 -------------------
 
-😎 Hello World! It's Ladi, a passionate individual with a "knack" for data analysis. Starting with the classic "Hello World"😅 
--
-I've embarked on a journey exploring the vast world of data. I'm drawn to the intersection of big-picture thinking and attention to detail, where data-driven insights to pave the way for informed decisions 🫡. 
--
+😎 Hello World! It's Ladi, a passionate individual with a "knack" for data analysis. Starting with the classic "Hello World"😅 .
+
+I've embarked on a journey exploring the vast world of data. I'm drawn to the intersection of big-picture thinking and attention to detail, where data-driven insights to pave the way for informed decisions 🫡.
+
 With a keen eye for accuracy and a drive to aid organizations and businesses in navigating their next steps, I'm excited to contribute to impactful projects and collaborate with like-minded individuals in the data realm. 📊!! 
--
+
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [andrewtwofive@gmail.com](mailto:andrewtwofive@gmail.com)
 *   🧠  I'm learning Advanced Excel😎, NumPy, R, Touchdesigner
 *   🤝  I'm open to collaborating on Humanitary data projects OR links between spiritual awareness and Global economics
 *   ⚡  Im batman.... Shhh
--
 
 ### Skills 
 <p align="left">
