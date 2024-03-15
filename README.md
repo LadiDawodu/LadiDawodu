@@ -12,7 +12,7 @@ With a keen eye for accuracy and a drive to aid organizations and businesses in 
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [andrewtwofive@gmail.com](mailto:andrewtwofive@gmail.com)
-*   🧠  I'm learning Advanced Excel😎, Python, MySQL & Touchdesigner
+*   🧠  I'm learning Advanced MySQL😎, Python, Excel, Tableau & Touchdesigner
 *   🤝  I'm open to collaborating on Humanitary data projects OR links between society & Global economics/metrics
 *   ⚡  Im batman.... Shhh
 
